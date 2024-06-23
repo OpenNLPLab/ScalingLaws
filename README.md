@@ -1,2 +1,1 @@
-# ScalingLaws
-Scaling Laws for Linear Complexity Language Models
+# Scaling Laws for Linear Complexity Language Models
